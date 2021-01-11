@@ -10,7 +10,7 @@ sudo apt-get install gifsicle
 pip install pygifsicle
 ```
 Пример
-```
+```python3
 from pygifsicle import optimize
 optimize("path_to_my_gif.gif")
 ```
